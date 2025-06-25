@@ -86,7 +86,7 @@ export default function OxfordTest() {
 
   return (
     <div className="min-h-screen bg-white p-6 flex flex-col items-center">
-      <h1 className="text-3xl font-bold mb-6 text-center">Оксфордски прашалник за среќа</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">Оксфордски прашалник за ниво на среќа</h1>
       <p className="text-lg text-gray-600 mb-8 max-w-2xl text-center">
         Одговори на секое прашање според тоа колку се согласуваш со дадената изјава.
       </p>

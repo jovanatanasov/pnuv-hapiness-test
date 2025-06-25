@@ -18,7 +18,7 @@ export default function Home() {
             to="/oxford"
             className="block bg-gray-800 hover:bg-gray-700 border-2 border-blue-500 text-white font-semibold py-3 px-6 rounded-md shadow transition"
           >
-            Оксфордски прашалник за среќа
+            Оксфордски прашалник за ниво на среќа
           </Link>
           <Link
             to="/swls"

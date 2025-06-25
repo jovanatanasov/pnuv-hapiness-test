@@ -94,13 +94,7 @@ export default function SwlsTest() {
           >
             Поднеси
           </button>
-          <button
-            type="button"
-            onClick={fillRandomAnswers}
-            className="bg-gray-300 text-gray-800 px-6 py-3 rounded hover:bg-gray-400"
-          >
-            Пополни автоматски
-          </button>
+          
         </div>
 
         {result && (
