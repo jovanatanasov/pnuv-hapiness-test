@@ -92,7 +92,7 @@ export default function SwlsTest() {
             type="submit"
             className="bg-blue-600 text-white font-semibold px-6 py-3 rounded hover:bg-blue-700"
           >
-            Поднеси
+            Внеси
           </button>
           
         </div>
